@@ -361,3 +361,9 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Ignore all input files
+Inputs/*.txt
+
+# But keep the folder structure
+! Inputs/.gitkeep
