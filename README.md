@@ -14,7 +14,7 @@ A C# console application for solving [Advent of Code 2025](https://adventofcode.
 
 ### Prerequisites
 
-- [.NET 9.0 SDK](https://dotnet.microsoft.com/download/dotnet/9.0) or later
+- [.NET 10.0 SDK](https://dotnet.microsoft.com/download/dotnet/10.0) or later
 
 ### Installation
 
@@ -122,7 +122,7 @@ The solution will be automatically discovered and appear in the menu. No registr
 
 ## 🛠️ Technologies Used
 
-- **C# / .NET 9.0** - Core language and runtime
+- **C# / .NET 10.0** - Core language and runtime
 - **Spectre.Console** - Beautiful CLI interfaces and formatting
 - **Reflection** - Automatic solution discovery
 
