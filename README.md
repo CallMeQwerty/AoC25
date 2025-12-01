@@ -115,10 +115,7 @@ The solution will be automatically discovered and appear in the menu. No registr
 
 | Day | Part 1 | Part 2 | Title |
 |-----|--------|--------|-------|
-| 1   | ⭐     | ⭐     | Historian Hysteria |
-| 2   | ⭐     | ⭐     | Red-Nosed Reports |
-| 3   | ⭐     | ⭐     | Mull It Over |
-| ... | ...    | ...    | ... |
+| 1   | ⭐     | ⭐     | Secret Entrance |
 
 ## 🛠️ Technologies Used
 
