@@ -116,6 +116,7 @@ The solution will be automatically discovered and appear in the menu. No registr
 | Day | Part 1 | Part 2 | Title |
 |-----|--------|--------|-------|
 | 1   | ⭐     | ⭐     | Secret Entrance |
+| 2   | ⭐     | ⭐     | Gift Shop |
 
 ## 🛠️ Technologies Used
 
