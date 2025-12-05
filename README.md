@@ -119,6 +119,7 @@ The solution will be automatically discovered and appear in the menu. No registr
 | 2   | ⭐     | ⭐     | Gift Shop |
 | 3   | ⭐     | ⭐     | Lobby |
 | 4   | ⭐     | ⭐     | Printing Department |
+| 5   | ⭐     | ⭐     | Cafeteria |
 
 ## 🛠️ Technologies Used
 
